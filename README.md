@@ -3,7 +3,7 @@
 **🔍 Project Overview: HR Employee Attrition Analysis 🌐**
 
 
-Purpose: Evaluate employee attrition patterns for informed HR strategies and decision-making.
+**Purpose**: Evaluate employee attrition patterns for informed HR strategies and decision-making.
 
 **Description**:
 
