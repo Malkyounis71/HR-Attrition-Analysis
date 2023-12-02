@@ -1,11 +1,11 @@
-HR-Attrition-Analysis
-🔍 Project Overview: HR Employee Attrition Analysis 🌐
-Purpose: Evaluate employee attrition patterns for informed HR strategies and decision-making.
+#HR-Attrition-Analysis
+#🔍 Project Overview: HR Employee Attrition Analysis 🌐
+##Purpose: Evaluate employee attrition patterns for informed HR strategies and decision-making.
 
-Description:
-Meticulously examining employee data, I extracted crucial insights into attrition. Employed advanced data cleaning techniques, including deleting redundant columns, dropping duplicates, and ensuring data integrity. Renamed columns for clarity and consistency. Explored factors like job satisfaction, departmental breakdowns, and gender impact to identify trends. Calculated key metrics and created visualizations, showcasing my adeptness in deriving actionable insights from HR datasets.
+**Description**:
+##Meticulously examining employee data, I extracted crucial insights into attrition. Employed advanced data cleaning techniques, including deleting redundant columns, dropping duplicates, and ensuring data integrity. Renamed columns for clarity and consistency. Explored factors like job satisfaction, departmental breakdowns, and gender impact to identify trends. Calculated key metrics and created visualizations, showcasing my adeptness in deriving actionable insights from HR datasets.
 
-📊 Data Visualization::
+**📊 Data Visualization:**
 Correlation Map for All Numeric Variables, highlighting patterns and relationships.
 
 Distribution of Marital Status, providing a comprehensive view of the employee landscape.
