@@ -23,7 +23,9 @@ Catplot: Distribution of Job Roles in Each Department by Gender, exploring gende
 
 Bar Plot: BusinessTravel Against Age Segment and MonthlyIncome, uncovering travel-related patterns.
 
-Employee Demographics:
+**Employee Demographics:**
+
+
 Total employees: 1470
 
 Employees who left: 237
@@ -32,7 +34,10 @@ Remaining employees: 1233
 
 Attrition breakdown by education field, marital status, age, distance from home, work-life balance, and gender.
 
-Turnover Analysis I:
+**Turnover Analysis I:**
+
+
+
 📈 Sales department exhibits the highest turnover, followed by research and development.
 
 📉 Employees who travel frequently have the highest turnover compared to those who travel rarely.
@@ -42,7 +47,10 @@ Employee Wellness:
 
 📉 Dissatisfaction with the environment and job correlates with higher attrition.
 
-Insights:
+**Insights:**
+
+
+
 Employee Attrition Rate: 16.1%
 
 Attrition by Gender: Males have the highest rate.
